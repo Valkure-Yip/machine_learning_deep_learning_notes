@@ -26,3 +26,5 @@
 ## self-attention & transformer
 
 - 👉 Detailed explain of self-attention & transformer with pytorch codes [Transformers from scratch | peterbloem.nl](https://peterbloem.nl/blog/transformers)
+- Positional encoding: [A Gentle Introduction to Positional Encoding in Transformer Models, Part 1 - MachineLearningMastery.com](https://machinelearningmastery.com/a-gentle-introduction-to-positional-encoding-in-transformer-models-part-1/)
+- A pytorch official example with code: [Language Modeling with nn.Transformer and torchtext — PyTorch Tutorials 2.0.1+cu117 documentation](https://pytorch.org/tutorials/beginner/transformer_tutorial.html#load-and-batch-data)
