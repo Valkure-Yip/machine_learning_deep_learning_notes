@@ -4,13 +4,26 @@
 
 - 👉 RNN基本原理 [一文搞懂RNN（循环神经网络）基础篇 - 知乎](https://zhuanlan.zhihu.com/p/30844905)
 
-- [[一文看懂循环神经网络 RNN（2种优化算法+5个实际应用）](https://easyai.tech/ai-definition/rnn/)](https://zhuanlan.zhihu.com/p/30844905)
+- [一文看懂循环神经网络 RNN（2种优化算法+5个实际应用）](https://easyai.tech/ai-definition/rnn/)
 
   动画 [Illustrated Guide to Recurrent Neural Networks | by Michael Phi | Towards Data Science](https://towardsdatascience.com/illustrated-guide-to-recurrent-neural-networks-79e5eb8049c9)
+  
+
+Pytorch examples:
+
+- [NLP From Scratch: Classifying Names with a Character-Level RNN — PyTorch Tutorials 2.1.0+cu121 documentation](https://pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial.html)
+
+- [NLP From Scratch: Generating Names with a Character-Level RNN — PyTorch Tutorials 2.1.0+cu121 documentation](https://pytorch.org/tutorials/intermediate/char_rnn_generation_tutorial.html#creating-the-network)
+
+  my example with lstm: https://github.com/Valkure-Yip/pytorch-generating-names-rnn
+  One-to-many network generates name, sequence length of nn.LSTM = 1
+
+- [NLP From Scratch: Translation with a Sequence to Sequence Network and Attention — PyTorch Tutorials 2.1.0+cu121 documentation](https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html?highlight=seq2seq): translation, many to many with GRU
 
 ## LSTM & GRU
 
 - 👉 动画 [Illustrated Guide to LSTM’s and GRU’s: A step by step explanation | by Michael Phi | Towards Data Science](https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21)
+- [Understanding LSTM Networks -- colah's blog](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
 ## encoder-decoder
 
