@@ -1,4 +1,8 @@
+## Learning Resources
+
 [mlabonne/llm-course: Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.](https://github.com/mlabonne/llm-course?tab=readme-ov-file)
+
+[RUCAIBox/LLMSurvey: The official GitHub page for the survey paper &quot;A Survey of Large Language Models&quot;.](https://github.com/RUCAIBox/LLMSurvey)
 
 ## Running LLM
 
