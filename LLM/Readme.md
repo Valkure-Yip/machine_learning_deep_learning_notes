@@ -2,8 +2,8 @@
 
 [mlabonne/llm-course: Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.](https://github.com/mlabonne/llm-course?tab=readme-ov-file)
 
-[RUCAIBox/LLMSurvey: The official GitHub page for the survey paper &quot;A Survey of Large Language Models&quot;.](https://github.com/RUCAIBox/LLMSurvey)
-
+大语言模型综述：[RUCAIBox/LLMSurvey: The official GitHub page for the survey paper &quot;A Survey of Large Language Models&quot;.](https://github.com/RUCAIBox/LLMSurvey)
+中文书：[https://llmbook-zh.github.io/](https://llmbook-zh.github.io/)
 ## Running LLM
 
 - [Run an LLM locally with LM Studio](https://www.kdnuggets.com/run-an-llm-locally-with-lm-studio) by Nisha Arya: Short guide on how to use LM Studio.
