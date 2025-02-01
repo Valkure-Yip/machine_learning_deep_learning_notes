@@ -89,7 +89,7 @@ $$
 ### 模型架构
 
 transformer, multi-head attention
-
+[Transformers from scratch _ peterbloem.nl](Transformers%20from%20scratch%20_%20peterbloem.nl.pdf)
 ### 预训练
 
 ## 指令微调
@@ -106,3 +106,13 @@ transformer, multi-head attention
 
 - self-instruct
 - evol-instruct: 深度/广度演化
+
+### 训练策略
+
+## 使用LLM
+
+解码
+规划 planning
+智能体 agent
+
+## 评测
