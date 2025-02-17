@@ -162,12 +162,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 345.5,
-    "collapsed": true
+    "width": 345.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,7 +180,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "57871388885eb80a",
+  "active": "b0e2367866bbbc55",
   "lastOpenFiles": [
     "RNN, LSTMGRU, encoder-decoder, attention.md",
     "LLM/Readme.md",
